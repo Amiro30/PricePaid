@@ -1,11 +1,20 @@
 ﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+# This .gitignore file was created by Andrew :)
 ################################################################################
 
-/PricePaid.Api/bin/Debug/net10.0
-/PricePaid.Api/obj
-/PricePaid.Consumer/bin/Debug/net10.0
-/PricePaid.Consumer/obj
-/PricePaid.Consumer/output.txt
-/PricePaid.Tests/bin/Debug/net10.0
-/PricePaid.Tests/obj
+# Build outputs
+**/bin/
+**/obj/
+
+# User-specific files
+*.user
+*.DotSettings.user
+
+# VS settings
+.vs/
+
+# HTTP files
+*.http
+
+# Consumer output
+**/output.txt
