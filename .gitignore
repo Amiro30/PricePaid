@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/PricePaid.Api/bin/Debug/net10.0
+/PricePaid.Api/obj
+/PricePaid.Consumer/bin/Debug/net10.0
+/PricePaid.Consumer/obj
+/PricePaid.Consumer/output.txt
+/PricePaid.Tests/bin/Debug/net10.0
+/PricePaid.Tests/obj
