@@ -18,3 +18,4 @@
 
 # Consumer output
 **/output.txt
+/PricePaid.Api/appsettings.Development.json
