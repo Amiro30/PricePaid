@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="PricePaid.Api/PricePaid.Api.csproj" />
+  <Project Path="PricePaid.Consumer/PricePaid.Consumer.csproj" />
+  <Project Path="PricePaid.Tests/PricePaid.Tests.csproj" />
+</Solution>
